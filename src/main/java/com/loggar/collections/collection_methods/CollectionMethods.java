@@ -1,4 +1,4 @@
-package com.loggar.features.collection_methods;
+package com.loggar.collections.collection_methods;
 
 import java.util.Arrays;
 import java.util.List;

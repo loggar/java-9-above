@@ -1,4 +1,4 @@
-package com.loggar.features.var;
+package com.loggar.statements.var;
 
 import java.util.ArrayList;
 
