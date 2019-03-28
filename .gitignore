@@ -1,0 +1,9 @@
+.vscode/
+.settings/
+
+.project
+.classpath
+/build/
+/target/
+/webapp/WEB-INF/classes
+/webapp/WEB-INF/lib
