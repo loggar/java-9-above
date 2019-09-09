@@ -1,4 +1,4 @@
-package com.loggar.optionals;
+package com.loggar.optionals.ex2;
 
 import static org.assertj.core.api.Assertions.*;
 
