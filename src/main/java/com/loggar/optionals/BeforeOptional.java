@@ -1,4 +1,4 @@
-package com.loggar.optionals.ex2;
+package com.loggar.optionals;
 
 public class BeforeOptional {
     @SuppressWarnings("unused")
